@@ -12,7 +12,7 @@ These are pretty much all the formulas required for a simple linear regression
 
 #### But how do we know how good the best fit line is? Or on a more broader scale, how do we know if linear regression is the best algorithm for this dataset?
 Introducing Coefficient of Determination which is calculated using squared error
-### r^2 = 1 - S.E(y_hat) / S.E(y_mean)
+### r^2 = 1 - ( S.E(y_hat) / S.E(y_mean) )
 
 Hints:
 * If r^2 is close to 1, then it's a pretty good best fit line
